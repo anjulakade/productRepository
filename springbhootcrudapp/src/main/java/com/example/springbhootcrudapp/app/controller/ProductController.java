@@ -23,6 +23,7 @@ public class ProductController
 {
 	// productController2
 	// productController
+	// mansicontroller
 	@Autowired
 	ProductServicei psi;
 	@PostMapping("/product")
